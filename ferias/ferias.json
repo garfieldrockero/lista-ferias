@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "updated": "2026-11-03",
+  "ferias": [
+    {
+      "id": "otro-puto-mercadillo-2026-11",
+      "name": "Otro Puto Mercadillo",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "city": "Madrid",
+      "link": "https://www.timeout.es/madrid/es/noticias/uno-de-los-mercadillos-mas-rebeldes-de-todo-madrid-se-celebra-este-fin-de-semana-ropa-de-segunda-mano-bisuteria-y-sorteos-en-un-ambiente-lleno-de-personalidad-021226"
+    },
+    {
+      "id": "mangafest-jaen-2026",
+      "name": "Mangafest Jaén",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "city": "Jaén",
+      "link": "https://mangafest.es/jaen"
+    },
+    {
+      "id": "festicomic-el-ejido-2026",
+      "name": "FestiCómic El Ejido",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "city": "El Ejido",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "murcia-se-remanga-2026",
+      "name": "Murcia se re-Manga",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "city": "Murcia",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "manga-world-san-fernando-2026",
+      "name": "Manga World Experience San Fernando",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "city": "San Fernando",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "andujar-go-2026-11",
+      "name": "Andújar GO!",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "city": "Andújar",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "splash-sagunt-2026",
+      "name": "Splash Sagunt",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "city": "Port de Sagunt",
+      "link": "https://www.splashsagunt.es/"
+    },
+    {
+      "id": "japan-weekend-valencia-2026-11",
+      "name": "Japan Weekend Valencia",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "city": "Valencia",
+      "link": "https://www.valenciabonita.es/2026/10/28/japan-weekend-valencia-2026/"
+    },
+    {
+      "id": "expotaku-coruna-reedition-2026",
+      "name": "ExpOtaku A Coruña Re:Edition",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "city": "A Coruña",
+      "link": "https://www.expotaku.com/a-coruna/entradas/"
+    },
+    {
+      "id": "rincon-go-2026",
+      "name": "Rincón GO!",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "city": "Rincón de la Victoria",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "mangah-o-2026",
+      "name": "MANGAH-O",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "city": "Huércal-Overa",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "discotaku-2026-11",
+      "name": "Discotaku Anime Party",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "city": "Jerez",
+      "link": "https://www.listadomanga.es/salones.php?mes=11&ano=2026"
+    },
+    {
+      "id": "mangafest-sevilla-2026-12",
+      "name": "Mangafest Sevilla",
+      "start": "2026-12-05",
+      "end": "2026-12-07",
+      "city": "Sevilla",
+      "link": "https://mangafest.es/sevilla"
+    },
+    {
+      "id": "manga-barcelona-2026",
+      "name": "Manga Barcelona",
+      "start": "2026-12-05",
+      "end": "2026-12-08",
+      "city": "L'Hospitalet",
+      "link": "https://www.manga-barcelona.com/es/"
+    },
+    {
+      "id": "salon-comic-zaragoza-2026",
+      "name": "Salón del Cómic de Zaragoza",
+      "start": "2026-12-11",
+      "end": "2026-12-13",
+      "city": "Zaragoza",
+      "link": "https://www.saloncomiczaragoza.com"
+    },
+    {
+      "id": "otro-puto-mercadillo-2026-12",
+      "name": "Otro Puto Mercadillo",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "city": "Madrid",
+      "link": "https://www.timeout.es/madrid/es/noticias/uno-de-los-mercadillos-mas-rebeldes-de-todo-madrid-se-celebra-este-fin-de-semana-ropa-de-segunda-mano-bisuteria-y-sorteos-en-un-ambiente-lleno-de-personalidad-021226"
+    },
+    {
+      "id": "kinepolis-granada-go-2026",
+      "name": "Kinépolis Granada GO!",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "city": "Pulianas",
+      "link": "https://www.listadomanga.es/salones.php?mes=12&ano=2026"
+    },
+    {
+      "id": "cabra-go-2026",
+      "name": "Cabra GO!",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "city": "Cabra",
+      "link": "https://www.listadomanga.es/salones.php?mes=12&ano=2026"
+    },
+    {
+      "id": "expojove-2026",
+      "name": "ExpoJove",
+      "start": "2026-12-26",
+      "end": "2027-01-04",
+      "city": "Valencia",
+      "link": "https://www.expojove.com/es/home/"
+    },
+    {
+      "id": "maracena-go-2027",
+      "name": "Maracena GO!",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "city": "Maracena",
+      "link": "https://www.listadomanga.es/salones.php?mes=1&ano=2027"
+    },
+    {
+      "id": "salon-manga-alhaurin-2027",
+      "name": "Salón del Manga de Alhaurín de la Torre",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "city": "Alhaurín de la Torre",
+      "link": "https://www.listadomanga.es/salones.php?mes=1&ano=2027"
+    },
+    {
+      "id": "mangafest-merida-2027",
+      "name": "Mangafest Mérida",
+      "start": "2027-02-20",
+      "end": "2027-02-21",
+      "city": "Mérida",
+      "link": "https://mangafest.es/merida"
+    },
+    {
+      "id": "graf-2027",
+      "name": "Graf",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "city": "Barcelona",
+      "link": "https://grafcomic.substack.com/p/convocatoria-oberta-graf-2027"
+    },
+    {
+      "id": "pontefriki-2027",
+      "name": "PonteFriki",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "city": "Camariñas",
+      "link": "https://www.listadomanga.es/salones.php?mes=3&ano=2027"
+    },
+    {
+      "id": "fanzimad-2027",
+      "name": "FanziMad",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "city": "Madrid",
+      "link": "https://www.listadomanga.es/salones.php?mes=3&ano=2027"
+    },
+    {
+      "id": "albanime-2027",
+      "name": "Albanime",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "city": "Albacete",
+      "link": "https://albanime.com/"
+    },
+    {
+      "id": "ficzone-2027",
+      "name": "FicZone",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "city": "Armilla",
+      "link": "https://www.ficzone.com/"
+    },
+    {
+      "id": "comic-barcelona-2027",
+      "name": "COMIC Barcelona",
+      "start": "2027-05-07",
+      "end": "2027-05-09",
+      "city": "Barcelona",
+      "link": "https://www.comic-barcelona.com/es/info.cfm"
+    },
+    {
+      "id": "freakcon-2027",
+      "name": "FreakCon",
+      "start": "2027-05-21",
+      "end": "2027-05-23",
+      "city": "Torremolinos",
+      "link": "https://freakcon.es/"
+    },
+    {
+      "id": "cortoons-frikidays-2027",
+      "name": "Cortoons Gandia Frikidays",
+      "start": "2027-05-22",
+      "end": "2027-05-23",
+      "city": "Gandía",
+      "link": "https://www.frikidays.es/"
+    }
+  ]
+}

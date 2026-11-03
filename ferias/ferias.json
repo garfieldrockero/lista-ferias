@@ -1,7 +1,14 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-03",
   "ferias": [
+    {
+      "id": "festicomic-el-ejido-2026",
+      "name": "FestiCómic El Ejido",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "city": "El Ejido"
+    },
     {
       "id": "mangafest-jaen-2026",
       "name": "Mangafest Jaén",
@@ -9,6 +16,34 @@
       "end": "2026-11-08",
       "city": "Jaén",
       "link": "https://mangafest.es/jaen"
+    },
+    {
+      "id": "otro-puto-mercadillo-2026-11",
+      "name": "Otro Puto Mercadillo",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "city": "Madrid"
+    },
+    {
+      "id": "manga-world-san-fernando-2026",
+      "name": "Manga World Experience San Fernando",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "city": "San Fernando"
+    },
+    {
+      "id": "murcia-se-remanga-2026",
+      "name": "Murcia se re-Manga",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "city": "Murcia"
+    },
+    {
+      "id": "andujar-go-2026-11",
+      "name": "Andújar GO!",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "city": "Andújar"
     },
     {
       "id": "splash-sagunt-2026",
@@ -27,12 +62,32 @@
       "link": "https://www.expotaku.com/a-coruna/entradas/"
     },
     {
-      "id": "mangafest-sevilla-2026-12",
-      "name": "Mangafest Sevilla",
-      "start": "2026-12-05",
-      "end": "2026-12-07",
-      "city": "Sevilla",
-      "link": "https://mangafest.es/sevilla"
+      "id": "japan-weekend-valencia-2026-11",
+      "name": "Japan Weekend Valencia",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "city": "Valencia"
+    },
+    {
+      "id": "rincon-go-2026",
+      "name": "Rincón GO!",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "city": "Rincón de la Victoria"
+    },
+    {
+      "id": "discotaku-2026-11",
+      "name": "Discotaku Anime Party",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "city": "Jerez"
+    },
+    {
+      "id": "mangah-o-2026",
+      "name": "MANGAH-O",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "city": "Huércal-Overa"
     },
     {
       "id": "manga-barcelona-2026",
@@ -43,6 +98,14 @@
       "link": "https://www.manga-barcelona.com/es/"
     },
     {
+      "id": "mangafest-sevilla-2026-12",
+      "name": "Mangafest Sevilla",
+      "start": "2026-12-05",
+      "end": "2026-12-07",
+      "city": "Sevilla",
+      "link": "https://mangafest.es/sevilla"
+    },
+    {
       "id": "salon-comic-zaragoza-2026",
       "name": "Salón del Cómic de Zaragoza",
       "start": "2026-12-11",
@@ -51,12 +114,47 @@
       "link": "https://www.saloncomiczaragoza.com"
     },
     {
+      "id": "kinepolis-granada-go-2026",
+      "name": "Kinépolis Granada GO!",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "city": "Pulianas"
+    },
+    {
+      "id": "otro-puto-mercadillo-2026-12",
+      "name": "Otro Puto Mercadillo",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "city": "Madrid"
+    },
+    {
+      "id": "cabra-go-2026",
+      "name": "Cabra GO!",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "city": "Cabra"
+    },
+    {
       "id": "expojove-2026",
       "name": "ExpoJove",
       "start": "2026-12-26",
       "end": "2027-01-04",
       "city": "Valencia",
       "link": "https://www.expojove.com/es/home/"
+    },
+    {
+      "id": "maracena-go-2027",
+      "name": "Maracena GO!",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "city": "Maracena"
+    },
+    {
+      "id": "salon-manga-alhaurin-2027",
+      "name": "Salón del Manga de Alhaurín de la Torre",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "city": "Alhaurín de la Torre"
     },
     {
       "id": "mangafest-merida-2027",
@@ -73,6 +171,20 @@
       "end": "2027-03-07",
       "city": "Barcelona",
       "link": "https://grafcomic.substack.com/p/convocatoria-oberta-graf-2027"
+    },
+    {
+      "id": "pontefriki-2027",
+      "name": "PonteFriki",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "city": "Camariñas"
+    },
+    {
+      "id": "fanzimad-2027",
+      "name": "FanziMad",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "city": "Madrid"
     },
     {
       "id": "albanime-2027",
